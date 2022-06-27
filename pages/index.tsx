@@ -24,7 +24,7 @@ const Home: NextPage = () => {
       {/* Content */}
       <div className={styles.container}>
         {/* Top Section */}
-        <h1 className={styles.h1}>NFT Marketplace w/ thirdweb + Next.JS</h1>
+        <h1 className={styles.h1}>COOLDOG Marketplace</h1>
         <p className={styles.explain}>
           Build an NFT marketplace using{" "}
           <b>
